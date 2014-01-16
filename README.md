@@ -1,4 +1,4 @@
 tinymce-mathquill-plugin
 ========================
 
-A math editor plugion for tinyMCE using Mathquill
+A basic math editor plugin for tinyMCE using Mathquill
